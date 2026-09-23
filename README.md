@@ -9,7 +9,7 @@ Hobby rocketry avionics stack — flight logger, mission control interface, and 
 
 ## What this is
 
-A complete avionics system for a Phase 0 flight logger built on a Teensy 4.1. Every sensor driver is written from the datasheet — no Adafruit libraries. Every design decision is documented here.
+A complete avionics system for a Phase 0 flight logger built on a Teensy 4.1. Every sensor driver is written from the datasheet — no Adafruit libraries. I wanted to actually learn how these systems work and how to write code for them. Every design decision is documented here.
 
 The broader project goal is a rocket that ascends under thrust vector control, ejects its spent motor mid-flight, chambers a fresh one autonomously from an onboard magazine, and lands propulsively on its tail. Phase 0 is the foundation: get clean, reliable flight data.
 
